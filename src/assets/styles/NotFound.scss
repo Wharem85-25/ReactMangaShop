@@ -1,0 +1,11 @@
+@import '_vars';
+
+body {
+	background-color: var(--purple-light);
+}
+
+.not-found{
+	font-weight: bold;
+	padding: 400px 800px;
+	color: var(--white);
+}

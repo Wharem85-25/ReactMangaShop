@@ -5,6 +5,7 @@ import Password from '../containers/Password';
 import Recovery from '../containers/Recovery';
 import Home from '../pages/Home';
 import NotFound from '../pages/NotFound';
+import Checkout from '';
 import '../assets/styles/global.css';
 
 const App = () => {

@@ -1,9 +1,13 @@
 import React from 'react';
+import '../assets/styles/NotFound.scss';
 
 const NotFound = () => {
 	return (
-		<div>
-			No encontrado error 404
+		<div className="not-found">
+			<h1>
+				Error 404
+			</h1>
+			<h3>Regrese a la pagina anterior</h3>
 		</div>
 	);
 };

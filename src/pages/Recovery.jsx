@@ -3,7 +3,7 @@ import '../assets/styles/Recovery.scss';
 
 const Recovery = () => {
 	return (
-		<div className="login">
+		<div className="Recovery">
 			<div className="form-container">
 				<img src="../src/assets/img/logo.png" className="logo" alt="Logo" />
 				<h1 className="title">Email has been sent!</h1>
