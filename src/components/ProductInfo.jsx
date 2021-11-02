@@ -1,10 +1,13 @@
 import React from "react";
-import "../assets/styles/ProductInfo.scss";
+import "@styles/ProductInfo.scss";
+
+import tokyo from '@img/mangaTokyo.jpg';
+import addCart from '@img/addCart.png';
 
 const ProductInfo = () => {
   return (
     <>
-      <img src="../src/assets/img/mangaTokyo.jpg" alt="Tokyo Revengers" />
+      <img src={tokyo} alt="Tokyo Revengers" />
       <div class="product-info">
         <p>$130.00</p>
         <p>Manga Tokyo Revengers</p>
@@ -14,7 +17,7 @@ const ProductInfo = () => {
           to make a type specimen book.
         </p>
         <button class="primary-button add-to-cart-button">
-          <img src="../src/assets/img/addCart.png" alt="add to cart" />
+          <img src={addCart} alt="add to cart" />
           Add to cart
         </button>
       </div>

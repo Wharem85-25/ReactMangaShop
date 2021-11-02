@@ -1,12 +1,14 @@
 import React from 'react';
 import ProductInfo from '../components/ProductInfo';
-import '../assets/styles/ProductDetail.scss';
+import '@styles/ProductDetail.scss';
+
+import close from '@img/close.png';
 
 const ProductDetail = () => {
 	return (
 		<aside class="ProductDetail">
 		<div class="product-detail-close">
-			<img src="../src/assets/img/close.png" alt="close" />
+			<img src={close} alt="close" />
 		</div>
 			<ProductInfo />
 	</aside>

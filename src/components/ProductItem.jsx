@@ -1,17 +1,20 @@
 import React from 'react';
-import '../assets/styles/ProductItem.scss';
+import '@styles/ProductItem.scss';
+
+import tokyo from '@img/mangaTokyo.jpg';
+import addCarrito from '@img/add-carrito.png';
 
 const ProductItem = () => {
 	return (
 		<div class="ProductItem">
-			<img src="../src/assets/img/mangaTokyo.jpg" alt="Manga-Tokyo-Revengers" class="product-img" />
+			<img src={tokyo} alt="Manga-Tokyo-Revengers" class="product-img" />
 			<div class="product-info">
 				<div>
 					<p>$130.00</p>
 					<p>Manga Tokyo Revengers</p>
 				</div>
 			<figure>
-				<img src="../src/assets/img/add-carrito.png" />
+				<img src={addCarrito} alt="Add-carrito"/>
 			</figure>
 			</div>
 		</div>

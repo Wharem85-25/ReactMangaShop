@@ -1,11 +1,13 @@
 import React from 'react';
-import '../assets/styles/ShoppingCartItem.scss';
+import '@styles/ShoppingCartItem.scss';
+
+import tokyo from '@img/mangaTokyo.jpg';
 
 const ShoppingCartItem = () => {
 	return (
 		<div class="ShoppingCartItem">
 			<figure>
-				<img src="../src/assets/img/mangaTokyo.jpg" alt="Tokyo Revengers" />
+				<img src={tokyo} alt="Tokyo Revengers" />
 			</figure>
 			<p>Tokyo Revengers</p>
 			<p>$130.00</p>

@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/styles/Menu.scss';
+import '@styles/Menu.scss';
 
 const Menu = () => {
 	return (

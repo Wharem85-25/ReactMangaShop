@@ -12,6 +12,14 @@ module.exports = {
 	mode: 'development',
 	resolve: {
 		extensions: ['.js', '.jsx'],
+		alias: {
+			'@img': path.resolve(__dirname, 'src/assets/img'),
+			'@styles': path.resolve(__dirname, 'src/assets/styles'),
+			'@components': path.resolve(__dirname, 'src/components'),
+			'@containers': path.resolve(__dirname, 'src/containers'),
+			'@pages': path.resolve(__dirname, 'src/pages'),
+			'@routes': path.resolve(__dirname, 'src/routes'),
+		}
 	},
 	module: {
 		rules: [
@@ -37,6 +45,10 @@ module.exports = {
 					"css-loader",
 					"sass-loader",
 				],
+			},
+			{
+				test: /\.(png|jpg|svg|gif)$/,
+				type: 'asset'
 			}
 		]
 	},
@@ -51,10 +63,5 @@ module.exports = {
 	],
 	devServer: {
 		historyApiFallback: true,
-		// static:	{
-		// 	directory: path.join(__dirname, 'dist'),
-		// },
-		// compress: true,
-		// port: 8001,
 	}
 }

@@ -7,18 +7,10 @@
 	place-items: center;
 }
 
-.form-container{
+.myaccount-form-container{
 	display: grid;
 	grid-template-rows: auto 1fr auto;
 	width: 300px;
-}
-
-.logo{
-	width: 250px;
-	height: 120px;
-	margin-bottom: 48px;
-	justify-self: center;
-	display: none;
 }
 
 .title {
@@ -79,4 +71,3 @@
 		justify-content: space-between;
 	}
 }
-
