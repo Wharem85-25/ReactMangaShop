@@ -1,4 +1,6 @@
-import React from 'react';
+import React, { useContext } from 'react';
+import AppContext from '@context/AppContext';
+import API from '@API/ApiMangaShop.json'
 import '@styles/OrderItem.scss'
 
 import tokyo from '@img/mangaTokyo.jpg';
@@ -7,7 +9,7 @@ import close from '@img/close.png';
 const OrderItem = () => {
 	return (
 		<>
-			<div class="OrderItem">
+			<div className="OrderItem">
 				<figure>
 					<img src={tokyo} alt="Tokyo Revengers"/>
 				</figure>

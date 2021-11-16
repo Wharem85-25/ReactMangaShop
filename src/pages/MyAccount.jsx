@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/styles/MyAccount.scss';
+import '@styles/MyAccount.scss';
 
 const MyAccount = () => {
 	return (

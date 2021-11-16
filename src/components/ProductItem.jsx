@@ -1,25 +1,25 @@
-import React, {useState} from 'react';
+import React, {useContext, useState} from 'react';
+import AppContext from '@context/AppContext';
 import '@styles/ProductItem.scss';
-
-import tokyo from '@img/mangaTokyo.jpg';
 import addCarrito from '@img/add-carrito.png';
 
-const ProductItem = () => {
-	const [cart, setCart] = useState([]);
 
-	const handleClick = () => {
-		setCart([]);
+const ProductItem = ({product}) => {
+	const { addToCart } = useContext(AppContext);
+
+	const handleClick = (item) => {
+		addToCart(item);
 	}
 
 	return (
-		<div class="ProductItem">
-			<img src={product.images[0]} alt="Manga-Tokyo-Revengers" class="product-img" />
-			<div class="product-info">
+		<div className="ProductItem">
+			<img src={product.images[0]} alt={product.title} className="product-img" />
+			<div className="product-info">
 				<div>
-					<p>$130.00</p>
-					<p>Manga Tokyo Revengers</p>
+					<p>${product.price}</p>
+					<p>{product.title}</p>
 				</div>
-			<figure onClick={handleClick}>
+			<figure onClick={() => handleClick(product)}>
 				<img src={addCarrito} alt="Add-carrito"/>
 			</figure>
 			</div>

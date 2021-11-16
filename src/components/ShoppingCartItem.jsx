@@ -5,7 +5,7 @@ import tokyo from '@img/mangaTokyo.jpg';
 
 const ShoppingCartItem = () => {
 	return (
-		<div class="ShoppingCartItem">
+		<div className="ShoppingCartItem">
 			<figure>
 				<img src={tokyo} alt="Tokyo Revengers" />
 			</figure>

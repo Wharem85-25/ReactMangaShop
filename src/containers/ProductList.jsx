@@ -1,17 +1,21 @@
-import React from 'react';
-import ProductItem from '../components/ProductItem';
+import React, {useEffect, useState} from 'react';
+import ProductItem from '@components/ProductItem';
+import API from '@API/ApiMangaShop.json';
 import '@styles/ProductList.scss';
-import useGetProducts from '@hooks/useGetProducts';
-
-const API = 'https://api.escuelajs.co/api/v1/products'
+// import useGetProducts from '@hooks/useGetProducts';
 
 const ProductList = () => {
-	const products = useGetProducts(API);
+	const [products, setProducts] = useState([])
+
+	useEffect(async () => {
+		setProducts(API.Mangas)
+	}, [])
+
 	return (
 		<section className="main-container">
 			<div className="ProductList">
 				{products.map(product => (
-					<ProductItem product={product} key={product.id} />
+					<ProductItem product={product} key={product.id}/>
 				))}
 			</div>
 		</section>

@@ -5,7 +5,7 @@ import flecha from '@img/flecha.png';
 
 const Order = () => {
   return (
-    <div class="Order">
+    <div className="Order">
       <p>
         <span>25/10/2021</span>
         <span>6 Article</span>

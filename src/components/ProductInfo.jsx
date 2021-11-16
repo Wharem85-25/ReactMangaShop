@@ -8,7 +8,7 @@ const ProductInfo = () => {
   return (
     <>
       <img src={tokyo} alt="Tokyo Revengers" />
-      <div class="product-info">
+      <div className="product-info">
         <p>$130.00</p>
         <p>Manga Tokyo Revengers</p>
         <p>
@@ -16,7 +16,7 @@ const ProductInfo = () => {
           1500s, when an unknown printer took a galley of type and scrambled it
           to make a type specimen book.
         </p>
-        <button class="primary-button add-to-cart-button">
+        <button className="primary-button add-to-cart-button">
           <img src={addCart} alt="add to cart" />
           Add to cart
         </button>

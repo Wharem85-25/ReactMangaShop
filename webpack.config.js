@@ -19,7 +19,9 @@ module.exports = {
 			'@containers': path.resolve(__dirname, 'src/containers'),
 			'@pages': path.resolve(__dirname, 'src/pages'),
 			'@routes': path.resolve(__dirname, 'src/routes'),
-			'@hooks': path.resolve(__dirname, 'src/hooks')
+			'@hooks': path.resolve(__dirname, 'src/hooks'),
+			'@API': path.resolve(__dirname, 'src/API'),
+			'@context': path.resolve(__dirname, 'src/context')
 		}
 	},
 	module: {

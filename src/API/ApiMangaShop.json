@@ -1,0 +1,404 @@
+{
+	"Mangas": [
+		{
+			"id": 1,
+			"title": "Tokyo Revengers",
+			"price": 360,
+			"descritpion": "tokyo Revengers es una serie anime que sigue a Takemichi, un chicho que a sus 26 años cree que ya ha arruinado su vida",
+			"category": {
+				"id" : 2,
+				"name": "Shonen",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekmi.news%2Fseries%2FLos-cliches-del-anime-shonen-y-sus-principales-exponentes-20210326-0034.html&psig=AOvVaw1xMfyUDgN0ShEU6L8kSUv8&ust=1636948217592000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODQtrv5lvQCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://noticias.animeonegai.com/wp-content/uploads/2021/08/E9tJA1_VkAIr4NW.jpg",
+				"https://m.media-amazon.com/images/I/51U32pESRlL.jpg",
+				"https://noticias.animeonegai.com/wp-content/uploads/2021/06/E4FLYKMXEAMVHqM.jpg"
+			]
+		},
+		{
+			"id": 2,
+			"title": "Tensei Shitara Slime Datta Ken",
+			"price": 380,
+			"descritpion": "La serie relata la historia de Satoru Mikami, un asalariado de 37 años que es asesinado tras ser apuñalado por un ladrón y se reencarna en un mundo de espadas y magia como un Slime con poderes únicos y reúne aliados para construir su propia nación de monstruos",
+			"category": {
+				"id" : 2,
+				"name": "Shonen",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekmi.news%2Fseries%2FLos-cliches-del-anime-shonen-y-sus-principales-exponentes-20210326-0034.html&psig=AOvVaw1xMfyUDgN0ShEU6L8kSUv8&ust=1636948217592000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODQtrv5lvQCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://pm1.narvii.com/7095/472d57df0d878c3aea43cd9fa9b0d61083066763r1-1350-1920v2_hq.jpg",
+				"https://images-na.ssl-images-amazon.com/images/I/91U+1ZtMBAL.jpg",
+				"https://images-na.ssl-images-amazon.com/images/I/91rUnsql7uL.jpg"
+			]
+		},
+		{
+			"id": 3,
+			"title": "One Piece",
+			"price": 390,
+			"descritpion": "One Piece es la historia de un chico llamado Monkey D. Luffy, quién se inspiró en Shanks, un pirata que le salvó la vida, para convertirse en el Rey de los Piratas. ... Luffy se convierte en uno de ellos, deseando ser el próximo Rey de los Piratas y se dispone a reunir compañeros de tripulación y comenzar sus aventuras.",
+			"category": {
+				"id" : 2,
+				"name": "Shonen",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekmi.news%2Fseries%2FLos-cliches-del-anime-shonen-y-sus-principales-exponentes-20210326-0034.html&psig=AOvVaw1xMfyUDgN0ShEU6L8kSUv8&ust=1636948217592000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODQtrv5lvQCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://ramenparados.com/wp-content/uploads/2020/12/Volume_97.png",
+				"https://areajugones.sport.es/wp-content/uploads/2021/08/one-piece-vol-100.jpg",
+				"https://pbs.twimg.com/media/D9mE1W9WwAEAzCM.png"
+			]
+		},
+		{
+			"id": 4,
+			"title": "Boku no Hero Academia",
+			"price": 375,
+			"descritpion": "En 2015 apareció el manga 'Boku No Hero', creado por Kōhei Horikoshi, contando la historia de Izuku Midoriya, un joven que vive en un mundo donde más de la mitad de la población ha desarrollado superpoderes, surgiendo así héroes y villanos.",
+			"category": {
+				"id" : 2,
+				"name": "Shonen",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekmi.news%2Fseries%2FLos-cliches-del-anime-shonen-y-sus-principales-exponentes-20210326-0034.html&psig=AOvVaw1xMfyUDgN0ShEU6L8kSUv8&ust=1636948217592000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODQtrv5lvQCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://static.fnac-static.com/multimedia/Images/FR/NR/40/47/c0/12601152/1507-1/tsp20210707080117/My-Hero-Academia.jpg",
+				"https://static.wikia.nocookie.net/bokunoheroacademia/images/9/9a/Volumen_2.png/revision/latest?cb=20150315185108&path-prefix=es",
+				"https://static2planetadelibroscom.cdnstatics.com/usuaris/libros/fotos/323/original/portada_my-hero-academia-n-26_kohei-horikoshi_202012211249.jpg"
+			]
+		},
+		{
+			"id": 5,
+			"title": "Tsuki ga Michibiku Isekai Douchuu",
+			"price": 360,
+			"descritpion": "El estudiante de secundaria Misumi Makoto es llamado a un mundo de fantasía por el dios Tsukuyomi para ser el héroe de este. Sin embargo, otros poderosos en este mundo no están tan emocionados de tenerlo allí, y lo arrastran al borde del mundo justo cuando Tsukuyomi decide dejar a Makoto seguir su propio camino.",
+			"category": {
+				"id" : 2,
+				"name": "Shonen",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekmi.news%2Fseries%2FLos-cliches-del-anime-shonen-y-sus-principales-exponentes-20210326-0034.html&psig=AOvVaw1xMfyUDgN0ShEU6L8kSUv8&ust=1636948217592000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODQtrv5lvQCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://spanishtraslation.files.wordpress.com/2016/11/14642052_1213223002033811_6874429124788658910_n.jpg?w=1400",
+				"https://cdn.statically.io/img/i1.mangatigre.top/mangas/bdc6e1e635a9c81210de6c9a37c8d54a.jpg",
+				"https://www.anmosugoi.com/wp-content/uploads/2021/06/Tsuki-ga-Michibiku-Isekai-Douchuu-manga.jpg"
+			]
+		},
+		{
+			"id": 6,
+			"title": "Kaguya-sama: Love Is War",
+			"price": 340,
+			"descritpion": "Este anime homónimo se centra en dos jóvenes estudiantes Miyuki Shirogane y Kaguya Shinomiya, el presidente y la vicepresidente del consejo estudiantil respectivamente. ... Miyuki y Kaguya comienzan una aventura, donde harán todo lo posible, para obtener la confesión del otro.",
+			"category": {
+				"id" : 1,
+				"name": "Shoujo",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekmi.news%2Fseries%2FLos-cliches-del-anime-shonen-y-sus-principales-exponentes-20210326-0034.html&psig=AOvVaw1xMfyUDgN0ShEU6L8kSUv8&ust=1636948217592000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODQtrv5lvQCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://ramenparados.com/wp-content/uploads/2020/09/kaguya-sama-1-300x421.jpg",
+				"https://images.cdn3.buscalibre.com/fit-in/360x360/31/12/31120c920ec0d6d682a55508d5b7ea69.jpg",
+				"https://kbimages1-a.akamaihd.net/0d95d303-7a2c-4d8a-8eb6-497d276f2bbc/353/569/90/False/kaguya-sama-love-is-war-vol-15.jpg"
+			]
+		},
+		{
+			"id": 7,
+			"title": "High School DxD",
+			"price": 365,
+			"descritpion": "Adéntrate en un mundo de humanos, ángeles caídos y demonios. Y sigue las aventuras de Issei, un humano que tras convertirse en un demonio del Clan Cremory tiene como objetivo conseguir su propio harem de subordinados",
+			"category": {
+				"id" : 1,
+				"name": "Shoujo",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekmi.news%2Fseries%2FLos-cliches-del-anime-shonen-y-sus-principales-exponentes-20210326-0034.html&psig=AOvVaw1xMfyUDgN0ShEU6L8kSUv8&ust=1636948217592000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODQtrv5lvQCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://image.slidesharecdn.com/highschooldxdvolumen01-161020061619/95/high-school-dxd-volumen-1-1-638.jpg?cb=1476944197",
+				"https://kbimages1-a.akamaihd.net/a1c34ffb-cfda-4081-9f36-01fb4394728c/1200/1200/False/highschool-dxd-band-4.jpg",
+				"https://img2.docer.com.ar/image/l/nsenn0.png"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Violet Evergarden ",
+			"price": 330,
+			"descritpion": "Violet Evergarden narra la historia de Violet, una joven la cual desde pequeña fue tomada como un arma de guerra,menos por el mayor Gilbert Bougainvillea, sin embargo, una vez acabada la guerra ella ha dejado el campo de batalla y por ende ha tenido que separarse de este mismo",
+			"category": {
+				"id" : 1,
+				"name": "Shoujo",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekmi.news%2Fseries%2FLos-cliches-del-anime-shonen-y-sus-principales-exponentes-20210326-0034.html&psig=AOvVaw1xMfyUDgN0ShEU6L8kSUv8&ust=1636948217592000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODQtrv5lvQCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://m.media-amazon.com/images/I/51fRyzzvxUL._AC_SY580_.jpg",
+				"https://static.wikia.nocookie.net/violetevergarden/images/b/bd/Violet_Evergarden_Volumen_1.png/revision/latest?cb=20171231031044&path-prefix=es",
+				"https://somoskudasai.com/wp-content/uploads/2017/07/violet-evergarden-3-e1499283410177.jpg"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Horimiya",
+			"price": 335,
+			"descritpion": "Kyôko es una alumna modélica y popular que al llegar a casa se convierte en una chica hogareña muy discreta. Miyamura, su compañero de clase, es un tipo del montón con cierto aire de friki que en sus ratos libres se transforma en un chico muy atractivo con piercings y mucho estilo.",
+			"category": {
+				"id" : 1,
+				"name": "Shoujo",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekmi.news%2Fseries%2FLos-cliches-del-anime-shonen-y-sus-principales-exponentes-20210326-0034.html&psig=AOvVaw1xMfyUDgN0ShEU6L8kSUv8&ust=1636948217592000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODQtrv5lvQCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://ramenparados.com/wp-content/uploads/2021/02/horimiya-final-715x1024.jpg",
+				"https://i.pinimg.com/236x/6d/7d/fe/6d7dfe9abaa073a9712725cb9599e383--pictures-of-ship-it.jpg",
+				"https://i.pinimg.com/550x/d4/7d/37/d47d37e6c495b7a4b79b3a02b8bc79f3.jpg"
+			]
+		},
+		{
+			"id": 10,
+			"title": "Wotaku ni Koi wa Muzukashii",
+			"price": 320,
+			"descritpion": "Narumi Momose es una trabajadora de oficina que oculta su estilo de vida de fujoshi otaku. Cuando en su nuevo lugar de trabajo, Narumi se encuentra con su viejo amigo de la infancia, Hirotaka, un hombre de la compañía guapo y capaz que es un otaku de juegos.",
+			"category": {
+				"id" : 1,
+				"name": "Shoujo",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekmi.news%2Fseries%2FLos-cliches-del-anime-shonen-y-sus-principales-exponentes-20210326-0034.html&psig=AOvVaw1xMfyUDgN0ShEU6L8kSUv8&ust=1636948217592000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODQtrv5lvQCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://infoliteraria.com/wp-content/uploads/2018/07/fujita-manga.jpg",
+				"https://infoliteraria.com/wp-content/uploads/2018/10/Wotaku-ni-Koi-wa-Muzukashii-721x1024.jpg",
+				"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514656624l/37775498._SX318_.jpg"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Fate/Zero",
+			"price": 390,
+			"descritpion": "Es una novela ligera japonesa escrita por Gen Urobuchi e ilustrada por Takashi Takeuchi. Es una precuela de la novela visual de Type-Moon Fate/stay night.",
+				"category": {
+				"id" : 3,
+				"name": "Seinen",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmaewara.wordpress.com%2Fseinen%2F&psig=AOvVaw2RTeG_1BzZcOlWHiAchXp0&ust=1636952492057000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCLh7KJl_QCFQAAAAAdAAAAABAI"
+			},
+			"images": [
+				"https://1.bp.blogspot.com/-cHxvwDLvSwk/XnzTFaXQrnI/AAAAAAAFalU/lCYbQy2-_8wEe9XXSWgAFDPeEC1gerEOQCLcBGAsYHQ/s1600/8.jpg",
+				"https://images-na.ssl-images-amazon.com/images/I/81qoWNwIh1L.jpg",
+				"https://m.media-amazon.com/images/I/5107qsB3QBL._SY445_.jpg"
+			]
+		},
+		{
+			"id": 12,
+			"title": "One Punch Man",
+			"price": 325,
+			"descritpion": "La historia se centra en Saitama, un superhéroe calvo y extremadamente fuerte que se muestra abrumado por la ausencia de un verdadero desafío, y que continuamente busca a un oponente digno de su poder.",
+			"category": {
+				"id" : 3,
+				"name": "Seinen",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmaewara.wordpress.com%2Fseinen%2F&psig=AOvVaw2RTeG_1BzZcOlWHiAchXp0&ust=1636952492057000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCLh7KJl_QCFQAAAAAdAAAAABAI"
+			},
+			"images": [
+				"https://libreriamorelos.mx/images/assets/portadas/9786075284941.jpg",
+				"https://pack-yak.intomanga.com/images/manga/One-Punch-Man/chapter/138/page/1/3a5d16e2-c087-4f3d-8eb0-24b2eb008e58",
+				"https://s3.amazonaws.com/imagenes-sellers-mercado-ripley/2021/05/23212948/9788416604968.jpg"
+			]
+		},
+		{
+			"id": 13,
+			"title": "Berserk",
+			"price": 340,
+			"descritpion": "Berserk es un manga/anime creado por Kentaro Miura, perteneciente al género épico fantástico ambientado en una tierra inspirada y con amplias similitudes a Europa medieval, en el cual se cuenta la historia de Guts (traducido como Gatsu en la edición en castellano), un mercenario huérfano.",
+			"category": {
+				"id" : 3,
+				"name": "Seinen",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmaewara.wordpress.com%2Fseinen%2F&psig=AOvVaw2RTeG_1BzZcOlWHiAchXp0&ust=1636952492057000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCLh7KJl_QCFQAAAAAdAAAAABAI"
+			},
+			"images": [
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Ftumanga.net%2Fmanga%2Fberserk%2F&psig=AOvVaw2U0gEkGXVNnFUXnyrzhQ1V&ust=1636952915498000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDr9_yKl_QCFQAAAAAdAAAAABAD",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Finmanga.com%2Fver%2Fmanga%2FBerserk%2F1%2Ff873305c-1123-4269-ba51-0c9203aed015&psig=AOvVaw2U0gEkGXVNnFUXnyrzhQ1V&ust=1636952915498000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDr9_yKl_QCFQAAAAAdAAAAABAJ",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Finmanga.com%2Fver%2Fmanga%2FBerserk%2F364%2F8a237e3e-b4af-4561-9061-b163b2ac8c13&psig=AOvVaw2U0gEkGXVNnFUXnyrzhQ1V&ust=1636952915498000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDr9_yKl_QCFQAAAAAdAAAAABAP"
+			]
+		},
+		{
+			"id": 14,
+			"title": "SteinsGate",
+			"price": 345,
+			"descritpion": "Sigue la historia de un auto-proclamado científico loco llamado Rintaro Okabe, quien junto con sus amigos, logra inventar un microondas que puede enviar mensajes de texto al pasado (denominado Teléfono-Microondas) y hacen uso de éste dispositivo para moverse entre mundos alternos.",
+			"category": {
+				"id" : 3,
+				"name": "Seinen",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmaewara.wordpress.com%2Fseinen%2F&psig=AOvVaw2RTeG_1BzZcOlWHiAchXp0&ust=1636952492057000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCLh7KJl_QCFQAAAAAdAAAAABAI"
+			},
+			"images": [
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Framenparados.com%2Fel-manga-de-steinsgate-0-finalizara-en-febrero%2F&psig=AOvVaw1KBKI2kYOKWKrhEJ9SdTKY&ust=1636953288456000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKi12q6Ml_QCFQAAAAAdAAAAABAD",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.normacomics.com%2Fcomics%2Fmanga%2Fsteins-gate-zero-01.html&psig=AOvVaw1KBKI2kYOKWKrhEJ9SdTKY&ust=1636953288456000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKi12q6Ml_QCFQAAAAAdAAAAABAJ",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fytlandia.es%2F2021%2F09%2F04%2Fcontinua-el-manga-de-steins-gate%2F&psig=AOvVaw1KBKI2kYOKWKrhEJ9SdTKY&ust=1636953288456000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKi12q6Ml_QCFQAAAAAdAAAAABAV"
+			]
+		},
+		{
+			"id": 15,
+			"title": "Death Note",
+			"price": 315,
+			"descritpion": "Death Note cuenta la historia de Light Yagami, un estudiante excepcional de secundaria que encuentra un misterioso cuaderno de notas el cual pertenece a un dios de la muerte también llamado shinigami que responde al nombre de Ryuk.",
+			"category": {
+				"id" : 3,
+				"name": "Seinen",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmaewara.wordpress.com%2Fseinen%2F&psig=AOvVaw2RTeG_1BzZcOlWHiAchXp0&ust=1636952492057000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCLh7KJl_QCFQAAAAAdAAAAABAI"
+			},
+			"images": [
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FDeath-Note-Vol-1-Boredom-ebook%2Fdp%2FB00FDZERXI&psig=AOvVaw0oXevZUqzJGgMAqTVfxA-E&ust=1636953497645000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDE4pGNl_QCFQAAAAAdAAAAABAD",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.normaeditorial.com%2Fficha%2Fmanga%2Fdeath-note%2Fdeath-note%2Fdeath-note-01&psig=AOvVaw0oXevZUqzJGgMAqTVfxA-E&ust=1636953497645000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDE4pGNl_QCFQAAAAAdAAAAABAJ",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.normaeditorial.com%2Fcatalogo%2Fmanga%2Fdeath-note%2Fdeath-note&psig=AOvVaw0oXevZUqzJGgMAqTVfxA-E&ust=1636953497645000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDE4pGNl_QCFQAAAAAdAAAAABAV"
+			]
+		},
+		{
+			"id": 16,
+			"title": "Haikyuu",
+			"price": 300,
+			"descritpion": "narra la historia de 'Shōyō Hinata', un joven que ve un partido de voleibol por la televisión y se inspira en un jugador apodado El Pequeño Gigante. Desde aquel entonces, su aspiración es convertirse en alguien como él, por lo que lucha por montar su propio club en su escuela.",
+			"category": {
+				"id" : 4,
+				"name": "Spokon",
+				"image": "https://www.google.com/url?sa=i&url=http%4A%2F%2Fwww.hikarinohana.com%2F2017%2F05%2Fivrea-no-volvera-apostar-por-el-spokon.html&psig=AOvVaw2GDjc1WGkbstF2XjdCC1pY&ust=1646954006093000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDB-ISPl_QCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mar9celo3.com%2F2020%2F02%2Fmanga-shounen-haikyuu-espanol.html&psig=AOvVaw0HLOlkG7OEpNLMeE39myS3&ust=1636953792223000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDbsKOOl_QCFQAAAAAdAAAAABAV",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsomoskudasai.com%2Fnoticias%2Fmanga%2Fel-manga-haikyuu-revela-la-portada-de-su-ultimo-volumen%2F&psig=AOvVaw0HLOlkG7OEpNLMeE39myS3&ust=1636953792223000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDbsKOOl_QCFQAAAAAdAAAAABAb",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodigoespagueti.com%2Fnoticias%2Fmanga-haikyuu-no-tendra-episodio-2%2F&psig=AOvVaw0HLOlkG7OEpNLMeE39myS3&ust=1636953792223000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDbsKOOl_QCFQAAAAAdAAAAABAh"
+			]
+		},
+		{
+			"id": 17,
+			"title": "Tamayomi",
+			"price": 290,
+			"descritpion": "La historia se centra en la lanzadora Yomi Takeda. En secundaria, su club de béisbol no llegó muy lejos porque carecía de una cácher que pudiera atrapar la bola mágica de Yomi",
+			"category": {
+				"id" : 4,
+				"name": "Spokon",
+				"image": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.hikarinohana.com%2F2017%2F05%2Fivrea-no-volvera-apostar-por-el-spokon.html&psig=AOvVaw2GDjc1WGkbstF2XjdCC1pY&ust=1636954006093000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDB-ISPl_QCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fnoticias.animeonegai.com%2Fel-manga-tamayomi-presenta-su-volumen-10%2F&psig=AOvVaw3NHOkMiDvfco1DFoCTz5De&ust=1636954159987000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODj9dGPl_QCFQAAAAAdAAAAABAD",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.animefagos.com%2F2019%2F06%2F21%2Fel-manga-de-beisbol-tamayomi-tendra-anime-para-television%2F&psig=AOvVaw3NHOkMiDvfco1DFoCTz5De&ust=1636954159987000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODj9dGPl_QCFQAAAAAdAAAAABAJ",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fhoneysanime.com%2Fes%2Ftamayomi-en-espanol%2F&psig=AOvVaw3NHOkMiDvfco1DFoCTz5De&ust=1636954159987000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODj9dGPl_QCFQAAAAAdAAAAABAO"
+			]
+		},
+		{
+			"id": 18,
+			"title": "Megalo Box",
+			"price": 250,
+			"descritpion": "Megalo Box (メガロボクス Megaro Bokusu) es una serie de anime creada en 2018 para conmemorar el 50 aniversario del manga Ashita no Joe. ​ Fue producido por el estudio TMS Entertainment y 3xCube, que también produjo el segundo anime de Ashita no Joe en 1980.",
+			"category": {
+				"id" : 4,
+				"name": "Spokon",
+				"image": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.hikarinohana.com%2F2017%2F05%2Fivrea-no-volvera-apostar-por-el-spokon.html&psig=AOvVaw2GDjc1WGkbstF2XjdCC1pY&ust=1636954006093000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDB-ISPl_QCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.businesswire.com%2Fnews%2Fhome%2F20210201006043%2Fes%2F&psig=AOvVaw3ZfkysRZH7Z9TQa7jm2c97&ust=1636954343280000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDu-qWQl_QCFQAAAAAdAAAAABAJ",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fmezalucas836%2Fmegalobox%2F&psig=AOvVaw3ZfkysRZH7Z9TQa7jm2c97&ust=1636954343280000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDu-qWQl_QCFQAAAAAdAAAAABAV",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FMegaloBox%2Fcomments%2Foajt3r%2Fif_you_loved_megalo_box_try_ashita_no_joe_the%2F&psig=AOvVaw3ZfkysRZH7Z9TQa7jm2c97&ust=1636954343280000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDu-qWQl_QCFQAAAAAdAAAAABAb"
+			]
+		},
+		{
+			"id": 19,
+			"title": "Hajime No Ippo",
+			"price": 270,
+			"descritpion": "La serie cuenta la historia de Makunouchi Ippo, un joven estudiante de preparatoria bastante introvertido que sufre el acoso de un grupo de matones en su colegio. Después de ser salvado de una paliza por un boxeador llamado Takamura Mamoru, Ippo comienza a sentir fascinación por el mundo del boxeo.",
+			"category": {
+				"id" : 4,
+				"name": "Spokon",
+				"image": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.hikarinohana.com%2F2017%2F05%2Fivrea-no-volvera-apostar-por-el-spokon.html&psig=AOvVaw2GDjc1WGkbstF2XjdCC1pY&ust=1636954006093000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDB-ISPl_QCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fdescargatumanga.wixsite.com%2Fshinsekai%2Fsingle-post%2Fhajime-no-ippo-volumen-124--actualizaci%25C3%25B3n-manga-mega&psig=AOvVaw0ZXgWU-qTrfVQxy-aS8cMt&ust=1636954618268000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNi826qRl_QCFQAAAAAdAAAAABAD",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsomoskudasai.com%2Fnoticias%2Fgeorge-morikawa-comento-sobre-el-futuro-de-hajime-no-ippo%2F%23!&psig=AOvVaw0ZXgWU-qTrfVQxy-aS8cMt&ust=1636954618268000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNi826qRl_QCFQAAAAAdAAAAABAZ",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fatamashi.net%2Fhajime-no-ippo-manga-mitad%2F&psig=AOvVaw0ZXgWU-qTrfVQxy-aS8cMt&ust=1636954618268000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNi826qRl_QCFQAAAAAdAAAAABAd"
+			]
+		},
+		{
+			"id": 20,
+			"title": "Capitan Tsubasa",
+			"price": 210,
+			"descritpion": "La trama se centra en la relación y la vida de un chico, Tsubasa (Oliver Atton), y su sueño de conquistar la Copa Mundial de Fútbol, en este serial se ve la rivalidad hacia sus oponentes, los entrenamientos, la competición y los acontecimientos en cada uno de los partidos que se juegan.",
+			"category": {
+				"id" : 4,
+				"name": "Spokon",
+				"image": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.hikarinohana.com%2F2017%2F05%2Fivrea-no-volvera-apostar-por-el-spokon.html&psig=AOvVaw2GDjc1WGkbstF2XjdCC1pY&ust=1636954006093000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDB-ISPl_QCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreakelitex.com%2Fresena-manga-capitan-tsubasa-2-tankobon%2F&psig=AOvVaw1ibC9N6GZBHj2uI4-Dblmk&ust=1636954910335000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiBirKSl_QCFQAAAAAdAAAAABAD",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FCapit%25C3%25A1n-Tsubasa-Manga-Kodomo-Spanish%2Fdp%2F8413418186&psig=AOvVaw1ibC9N6GZBHj2uI4-Dblmk&ust=1636954910335000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiBirKSl_QCFQAAAAAdAAAAABAJ",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lacomiqueria.com.ar%2Fproductos%2Fcaptain-tsubasa-06%2F&psig=AOvVaw1ibC9N6GZBHj2uI4-Dblmk&ust=1636954910335000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiBirKSl_QCFQAAAAAdAAAAABAO"
+			]
+		},
+		{
+			"id": 21,
+			"title": "Kimetsu no Yaiba",
+			"price": 340,
+			"descritpion": "narra la historia de Tanjiro Kamado, un joven convertido en cazador de demonios cuando toda su familia es masacrada. Su objetivo es conseguir una cura para su hermana, que se está convirtiendo en demonio.",
+			"category": {
+				"id" : 2,
+				"name": "Shonen",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekmi.news%2Fseries%2FLos-cliches-del-anime-shonen-y-sus-principales-exponentes-20210326-0034.html&psig=AOvVaw1xMfyUDgN0ShEU6L8kSUv8&ust=1636948217592000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODQtrv5lvQCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FDemon-Slayer-Kimetsu-Yaiba-Cruelty-ebook%2Fdp%2FB07CTBBGZF&psig=AOvVaw0d3K3Q3-KArjfAYOtlcl8J&ust=1636955245412000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDF8NGTl_QCFQAAAAAdAAAAABAD",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kobo.com%2Fmx%2Fes%2Febook%2Fdemon-slayer-kimetsu-no-yaiba-vol-3&psig=AOvVaw0d3K3Q3-KArjfAYOtlcl8J&ust=1636955245412000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDF8NGTl_QCFQAAAAAdAAAAABAJ",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fleedooo-gen.blogspot.com%2F2020%2F03%2Fkimetsu-no-yaiba-86-manga-pdf-capitulos.html&psig=AOvVaw0d3K3Q3-KArjfAYOtlcl8J&ust=1636955245412000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDF8NGTl_QCFQAAAAAdAAAAABAT"
+			]
+		},
+		{
+			"id": 22,
+			"title": "Komi-san Wa Komyushou Desu",
+			"price": 330,
+			"descritpion": "Es una serie manga de Tomohito Oda . ... Es una belleza absoluta para cualquiera, Shouko en realidad sufre de problemas de comunicación extremos, lo que le obliga a usar un coraje sustancial para hablar con los demás.",
+			"category": {
+				"id" : 1,
+				"name": "Shoujo",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekmi.news%2Fseries%2FLos-cliches-del-anime-shonen-y-sus-principales-exponentes-20210326-0034.html&psig=AOvVaw1xMfyUDgN0ShEU6L8kSUv8&ust=1636948217592000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODQtrv5lvQCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Finfoliteraria.com%2F2021%2F05%2F17%2Fel-manga-komi-san-wa-komyushou-desu-tendra-una-serie-anime-en-otono&psig=AOvVaw0XKzMSEWa2yTDe1HILSa9k&ust=1636956866684000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiexNiZl_QCFQAAAAAdAAAAABAD",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mangatigre.com%2Fmanga%2Fkomi-san-wa-komyushou-desu%2F304&psig=AOvVaw0XKzMSEWa2yTDe1HILSa9k&ust=1636956866684000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiexNiZl_QCFQAAAAAdAAAAABAJ",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.anmosugoi.com%2Fnoticias%2Fkomi-san-wa-komyushou-volumen-23%2F&psig=AOvVaw0XKzMSEWa2yTDe1HILSa9k&ust=1636956866684000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiexNiZl_QCFQAAAAAdAAAAABAP"
+			]
+		},
+		{
+			"id": 23,
+			"title": "Senpai ga urusai kouhai no hanashi",
+			"price": 335,
+			"descritpion": "La historia es una comedia romántica basada en Harumi Takeda, un empleado veterano de una compañía que es bastante vulgar e insensato, pero bastante cuidadoso con su kouhai Futaba Igarashi, quien es un poco tonta y a veces reacia a seguir instrucciones.",
+			"category": {
+				"id" : 1,
+				"name": "Shoujo",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekmi.news%2Fseries%2FLos-cliches-del-anime-shonen-y-sus-principales-exponentes-20210326-0034.html&psig=AOvVaw1xMfyUDgN0ShEU6L8kSUv8&ust=1636948217592000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODQtrv5lvQCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fotakudesho.net%2Fsenpai-ga-uzai-kouhai-no-hanashi%2F&psig=AOvVaw35R9jAzPK6nQmC6CccDaoJ&ust=1636957102003000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjAyMmal_QCFQAAAAAdAAAAABAJ",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Felotakudoan.blogspot.com%2F2020%2F07%2Fsenpai-ga-uzai-kouhai-no-hanashi-se.html&psig=AOvVaw35R9jAzPK6nQmC6CccDaoJ&ust=1636957102003000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjAyMmal_QCFQAAAAAdAAAAABAQ",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.anmosugoi.com%2Fnoticias%2Fsenpai-ga-uzai-1-5-millones-copias%2F&psig=AOvVaw35R9jAzPK6nQmC6CccDaoJ&ust=1636957102003000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjAyMmal_QCFQAAAAAdAAAAABAa"
+			]
+		},
+		{
+			"id": 24,
+			"title": "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei Suru",
+			"price": 310,
+			"descritpion": "El protagonista es un anciano que había vivido su vida como el mayor asesino del mundo. Debido a su avanzada edad, finalmente se decidió que podría retirarse. Sin embargo, el avión en el que estaba fue saboteado e incluso sus habilidades como el mayor asesino no pudieron salvarlo. Cuando murió, fue despertado por una diosa que quería reencarnarlo en un mundo de espadas y magia porque necesita su conjunto de habilidades para evitar la destrucción de ese mundo a manos del Héroe.",
+			"category": {
+				"id" : 2,
+				"name": "Shonen",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekmi.news%2Fseries%2FLos-cliches-del-anime-shonen-y-sus-principales-exponentes-20210326-0034.html&psig=AOvVaw1xMfyUDgN0ShEU6L8kSUv8&ust=1636948217592000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODQtrv5lvQCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fmangacrab.com%2Fmanga%2Fsekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru%2F&psig=AOvVaw0XmnRkCNBXVhZ5uDDZK9Hm&ust=1636957369578000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjZ_sabl_QCFQAAAAAdAAAAABAD",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsomoskudasai.com%2Fnoticias%2Fanime%2Fel-anime-sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru-tendra-12-episodios%2F&psig=AOvVaw0XmnRkCNBXVhZ5uDDZK9Hm&ust=1636957369578000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjZ_sabl_QCFQAAAAAdAAAAABAI",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fotakudesho.net%2Fsekai-saikou-no-ansatsusha-3%2F&psig=AOvVaw0XmnRkCNBXVhZ5uDDZK9Hm&ust=1636957369578000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjZ_sabl_QCFQAAAAAdAAAAABAN"
+			]
+		},
+		{
+			"id": 25,
+			"title": "Mushoku Tensei : Isekai Ittara Honki Dasu",
+			"price": 350,
+			"descritpion": "es una serie anime que sigue a un japonés de 24 años que es desalojado de su casa tras la muerte de sus padres. Tras una cierta introspección de su vida, concluye que su vida no tiene sentido.",
+			"category": {
+				"id" : 2,
+				"name": "Shonen",
+				"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekmi.news%2Fseries%2FLos-cliches-del-anime-shonen-y-sus-principales-exponentes-20210326-0034.html&psig=AOvVaw1xMfyUDgN0ShEU6L8kSUv8&ust=1636948217592000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODQtrv5lvQCFQAAAAAdAAAAABAD"
+			},
+			"images": [
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimanga.fandom.com%2Fes%2Fwiki%2FMushoku_Tensei&psig=AOvVaw0BGlz2x0Psch6F7wH5WkN4&ust=1636957642496000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCo8cycl_QCFQAAAAAdAAAAABAJ",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fanime%2Fpage%2Fblog%2Fresena-mushoku-tensei-wu-zhi-zhuan-sheng%2F2gtN_uMPb2k8LJ5W2q0KJaoBpYYk4N&psig=AOvVaw0BGlz2x0Psch6F7wH5WkN4&ust=1636957642496000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCo8cycl_QCFQAAAAAdAAAAABAO",
+				"https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.scribd.com%2Fdocument%2F465177664%2FRVN-Mushoku-Tensei-Volumen-03-v2-pdf&psig=AOvVaw0BGlz2x0Psch6F7wH5WkN4&ust=1636957642496000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCo8cycl_QCFQAAAAAdAAAAABAZ"
+			]
+		}
+	]
+}
