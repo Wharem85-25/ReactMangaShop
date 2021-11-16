@@ -1,21 +1,23 @@
 import React, { useContext } from 'react';
 import AppContext from '@context/AppContext';
-import API from '@API/ApiMangaShop.json'
 import '@styles/OrderItem.scss'
 
-import tokyo from '@img/mangaTokyo.jpg';
 import close from '@img/close.png';
 
-const OrderItem = () => {
+const OrderItem = ({ product }) => {
+	const { removeFromCart } = useContext(AppContext)
+	const handleRemove = product => {
+		removeFromCart(product);
+	}
 	return (
 		<>
 			<div className="OrderItem">
 				<figure>
-					<img src={tokyo} alt="Tokyo Revengers"/>
+					<img src={product.images[0]} alt={product.title}/>
 				</figure>
-				<p>Tokyo Revengers</p>
-				<p>$130.00</p>
-				<img src={close} alt="close"/>
+				<p>{product.title}</p>
+				<p>$ {product.price}</p>
+				<img src={close} alt="close" onClick={() => handleRemove(product)}/>
 			</div>
 		</>
 	);
