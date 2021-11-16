@@ -6,16 +6,16 @@ import email from '@img/email.png';
 
 const SendEmail = () => {
 	return (
-		<div class="SendEmail">
-			<div class="form-container">
-				<img src={logo} class="send-email-logo" alt="Logo" />
-				<h1 class="title">Email has been sent!</h1>
-				<p class="subtitle">Please cheak your inbox for instructions on how to reset the password</p>
-				<div class="email-image">
+		<div className="SendEmail">
+			<div className="form-container">
+				<img src={logo} className="send-email-logo" alt="Logo" />
+				<h1 className="title">Email has been sent!</h1>
+				<p className="subtitle">Please cheak your inbox for instructions on how to reset the password</p>
+				<div className="email-image">
 					<img src={email} alt="email" />
 				</div>
-				<button class="primary-button login-button">Login</button>
-				<p class="resend">
+				<button className="primary-button login-button">Login</button>
+				<p className="resend">
 					<span>Didn't receive the email?</span>
 					<a href="/">Resend</a>
 				</p>
