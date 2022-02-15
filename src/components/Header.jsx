@@ -1,6 +1,7 @@
 import React, {useState, useContext} from 'react';
 import MyOrder from '@containers/MyOrder';
 import Menu from '@components/Menu';
+import MobileMenu from '@components/MobileMenu';
 import AppContext from '@context/AppContext';
 import '@styles/Header.scss';
 
@@ -9,6 +10,7 @@ import logo from '@img/logo.png';
 import shoppingcart from '@img/add-carrito.png';
 
 const Header = () => {
+  const [toggleMobile ,setToggleMenuMobile] = useState(false);
   const [toggle, setToggle] = useState(false);
   const [toggleOrders, setToggleOrders] = useState(false);
   const { state } = useContext(AppContext);
@@ -16,9 +18,15 @@ const Header = () => {
   const handleToggle = () => {
     setToggle(!toggle);
   }
+
+  const handleToggleMobile = () => {
+    setToggleMenuMobile(!toggleMobile);
+  }
+  
 	return (
     <nav>
-      <img src={menu} alt="menu" className="menu" />
+      <img src={menu} alt="menu" className="menu" onClick={handleToggleMobile}/>
+      {toggleMobile && <MobileMenu />}
       <div className="navbar-left">
         <img src={logo} alt="logo" className="header-logo" />
         <ul className="category">
